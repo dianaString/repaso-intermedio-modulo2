@@ -13,17 +13,17 @@
     - [x] js-btn
     - [x] js-select
     - [x] js-smile
-- [ ] Crear estructura en Javascript
-  - [ ] Crear variables
-    - [ ] const value = select.value;
-    - [ ] parrafo.innerHTML = value;
-  - [ ] Crear eventos/listeners
-  - [ ] Crear funciones
-    - [ ] Recoger el estado del select
-    - [ ] Pintar color de fondo
-      - [ ] const numeroAlea = funcion numeroAleatorio;
-      - [ ] Validar si el nº es par o impar
-        - [ ] numeroAlea%2 == 0 // par
-        - [ ] numeroAlea%2 != 0 // impar
-      - [ ] Cambiar la clase del main
-        - [ ] classList.add // + remove
+- [x] Crear estructura en Javascript
+  - [x] Crear variables
+    - [x] const value = select.value;
+    - [x] parrafo.innerHTML = value;
+  - [x] Crear eventos/listeners
+  - [x] Crear funciones
+    - [x] Recoger el estado del select
+    - [x] Pintar color de fondo
+      - [x] const numeroAlea = funcion numeroAleatorio;
+      - [x] Validar si el nº es par o impar
+        - [x] numeroAlea%2 == 0 // par
+        - [x] numeroAlea%2 != 0 // impar
+      - [x] Cambiar la clase del main
+        - [x] classList.add // + remove
