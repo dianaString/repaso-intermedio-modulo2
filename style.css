@@ -1,0 +1,27 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+main {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+}
+
+.yellow {
+  background-color: #ffcc00;
+}
+
+.orange {
+  background-color: #ff9900;
+}
+
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 6rem;
+}
+
+select, button {
+  padding: 10px;
+}

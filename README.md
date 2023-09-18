@@ -1,18 +1,18 @@
 # repaso-intermedio-modulo2
 
-- [ ] Crear estructura en HTML
-  - [ ] Crear un main:
-    - [ ] Botón
-    - [ ] Select
-    - [ ] Colocar el smile
-- [ ] Crear estructura en CSS
-  - [ ] Crear clases normales
-    - [ ] Dar estilos
-  - [ ] Crear clases js
-    - [ ] js-main
-    - [ ] js-btn
-    - [ ] js-select
-    - [ ] js-smile
+- [x] Crear estructura en HTML
+  - [x] Crear un main:
+    - [x] Botón
+    - [x] Select
+    - [x] Colocar el smile
+- [x] Crear estructura en CSS
+  - [x] Crear clases normales
+    - [x] Dar estilos
+  - [x] Crear clases js
+    - [x] js-main
+    - [x] js-btn
+    - [x] js-select
+    - [x] js-smile
 - [ ] Crear estructura en Javascript
   - [ ] Crear variables
     - [ ] const value = select.value;
