@@ -1,1 +1,29 @@
 # repaso-intermedio-modulo2
+
+- [ ] Crear estructura en HTML
+  - [ ] Crear un main:
+    - [ ] Botón
+    - [ ] Select
+    - [ ] Colocar el smile
+- [ ] Crear estructura en CSS
+  - [ ] Crear clases normales
+    - [ ] Dar estilos
+  - [ ] Crear clases js
+    - [ ] js-main
+    - [ ] js-btn
+    - [ ] js-select
+    - [ ] js-smile
+- [ ] Crear estructura en Javascript
+  - [ ] Crear variables
+    - [ ] const value = select.value;
+    - [ ] parrafo.innerHTML = value;
+  - [ ] Crear eventos/listeners
+  - [ ] Crear funciones
+    - [ ] Recoger el estado del select
+    - [ ] Pintar color de fondo
+      - [ ] const numeroAlea = funcion numeroAleatorio;
+      - [ ] Validar si el nº es par o impar
+        - [ ] numeroAlea%2 == 0 // par
+        - [ ] numeroAlea%2 != 0 // impar
+      - [ ] Cambiar la clase del main
+        - [ ] classList.add // + remove
